@@ -1,0 +1,13 @@
+.main-section{
+    background-color: #0F675C;
+}
+.main-background{
+    background: url('/images/background.png');
+}
+.navbar-nav li a{
+    color:white;
+}
+.main-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+}
